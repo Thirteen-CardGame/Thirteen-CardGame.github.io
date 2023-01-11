@@ -10,7 +10,7 @@ ios_app_country                           :
 
 appstore_link                             :                                           
 # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : play.google.com/store/apps/details?id=com.LukaszDziedziczak.Thirteen                                            
+playstore_link                            : https://play.google.com/store/apps/details?id=com.LukaszDziedziczak.Thirteen                                            
 # Enter Google Play Store URL.
 presskit_download_link                    :                                         
 # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
